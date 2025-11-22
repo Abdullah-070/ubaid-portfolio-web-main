@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root {
+    --radius: 0.5rem;
+    --primary-color: #00d4d4;
+    --primary-dark: #00b8b8;
+    --primary-light: #4dd4d4;
+    --primary-50: #f0fffe;
+    --primary-100: #d4f5f5;
+    --primary-200: #a8ecec;
+    --primary-600: #00b8b8;
+    --primary-700: #0099a8;
+  }
+}
+
